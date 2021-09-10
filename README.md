@@ -3,7 +3,6 @@ Code accompanying the paper: [Focused Attention Improves Document Grounded Gener
 
 ## Pre-requisites
 - [transformers](https://github.com/huggingface/transformers) 3.1.0
-- [requirements](https://github.com/huggingface/transformers/blob/master/examples/requirements.txt) for using the transformers code
 - [NLG-Eval](https://github.com/Maluuba/nlg-eval)
 
 ## Data
